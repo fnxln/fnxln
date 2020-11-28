@@ -16,6 +16,7 @@ Here's some stuff about me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnxln&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
