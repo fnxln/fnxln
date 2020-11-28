@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 ![Lin's github stats](https://github-readme-stats.vercel.app/api?username=fnxln&show_icons=true&theme=synthwave)
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Video sobre windows 10 ame](https://blog.pepino.live/2020/11/19/Video1/)
 <!-- BLOG-POST-LIST:END -->
