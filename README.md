@@ -10,3 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Via email [contato@pepino.live](mailto:contato@pepino.live)
 - ⚡ Fun fact: I love nintendo games and i`m trangender
 
+![Lin's github stats](https://github-readme-stats.vercel.app/api?username=fnxln&show_icons=true&theme=synthwave)
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
