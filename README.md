@@ -1,7 +1,7 @@
 ### Hi, my name is Lin 👋
 
 Here's some stuff about me:
-- 😄 Pronouns: She/Her | Ela/Dela | 他 
+- 😄 Pronouns: She/Her | Ela/Dela | 她 
 - 📚 I speak: Portuguese *My native Language*, English *Semi-Fluent*, Mandarin *Just a bit*
 - 🔭 I’m currently working on Neutrando Project
 - 🌱 I’m currently learning Node, JS, TS, CPP, Unity
