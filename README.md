@@ -24,11 +24,11 @@ Here's some stuff about me:
 ![Lin's github stats](https://github-readme-stats.vercel.app/api?username=fnxln&show_icons=true&theme=synthwave)
 # 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como usar o runit Init system](http://blog.worldoflinux.xyz/2021/01/07/runitch/)
 - [Artix full  hipster](http://blog.worldoflinux.xyz/2021/01/06/artixfullhipster/)
 - [Drivers Nvidia no FreeBSD](http://blog.worldoflinux.xyz/2021/01/02/Nvidia-Drivers/)
 - [Como instalar Windows 10 AME](http://blog.worldoflinux.xyz/2020/12/17/Windows10Ame/)
 - [Pen Drive Bootável De Windows 10 em Debian/Ubuntu](http://blog.worldoflinux.xyz/2020/12/02/WoeUSB_Ubuntu&Debian/)
-- [Como rodar jogos via usb no PS2](http://blog.worldoflinux.xyz/2020/12/02/gameusbps2/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: http://info.pepino.live/
