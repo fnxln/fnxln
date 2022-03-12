@@ -3,10 +3,8 @@
 Here's some stuff about me:
 - 😄 Pronouns: She/Her | Ela/Dela | 她 
 - 📚 I speak: Portuguese *My native Language*, English *Semi-Fluent*, Mandarin *Just a bit*
-- 🔭 I’m currently working on Neutrando Project
 - 🌱 I’m currently learning Node, JS, TS, CPP, Unity
 - 👯 I’m looking to collaborate on: Open Source Projects
-- 🤔 I’m looking for help with: My projects Lol 
 - 📫 How to reach me: Via email [contato@pepino.live](mailto:contato@pepino.live)
 - ⚡ Fun fact: I love nintendo games and i`m transgender
 ### Connect with me:
