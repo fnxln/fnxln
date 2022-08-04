@@ -1,34 +1,27 @@
-### Hi, my name is Lin 👋
+```yaml
+fnxln:
 
-Here's some stuff about me:
-- 😄 Pronouns: She/Her | Ela/Dela | 她 
-- 📚 I speak: Portuguese *My native Language*, English *Semi-Fluent*, Mandarin *Semi-Fluent*
-- 🌱 I’m currently learning Node, JS, TS, CPP, Unity
-- 👯 I’m looking to collaborate on: Open Source Projects
-- 📫 How to reach me: Via email [contato@pepino.live](mailto:contato@pepino.live)
-- ⚡ Fun fact: I love nintendo games and i`m transgender
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnxln&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Lin's github stats](https://github-readme-stats.vercel.app/api?username=fnxln&show_icons=true&theme=synthwave)
-# 📕 Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Como usar o runit Init system](http://blog.worldoflinux.xyz/2021/01/07/runitch/)
-- [Artix full  hipster](http://blog.worldoflinux.xyz/2021/01/06/artixfullhipster/)
-- [Drivers Nvidia no FreeBSD](http://blog.worldoflinux.xyz/2021/01/02/Nvidia-Drivers/)
-- [Como instalar Windows 10 AME](http://blog.worldoflinux.xyz/2020/12/17/Windows10Ame/)
-- [Pen Drive Bootável De Windows 10 em Debian/Ubuntu](http://blog.worldoflinux.xyz/2020/12/02/WoeUSB_Ubuntu&Debian/)
-<!-- BLOG-POST-LIST:END -->
-
-[website]: http://info.pepino.live/
-[twitter]: https://twitter.com/fnxlnbsd
-[youtube]: https://www.youtube.com/channel/UCGNJeRvCSCQIVApXoZf5Ssg?
+  names:
+    - name: Lin Vieira Diniz
+      type: "Social Name"
+      
+    - name: Gabriel Vieira Diniz
+      type: "Born Name"
+    
+  gender: "Trans Female"
+  
+  knowledges:
+    - ansible
+    - docker
+    - k3s
+    - rancher
+    - rust
+  
+  languages: 
+    - lang: English
+      level: Advanced
+    
+    - lang: "Chinese Mandarim"
+      level: intermediate
+    
+```
